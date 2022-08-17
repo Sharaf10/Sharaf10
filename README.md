@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Viper Spotify Playing" width="350" />](https://open.spotify.com/user/iy1mlrw28i377e11mfag92qfi)
+[<img src="#)
 
 <br />
 
