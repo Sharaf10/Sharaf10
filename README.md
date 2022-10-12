@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Mohamed Sharaf 👋</h1>
-<h3 align="center">I'm a Tech Enthusiast, a Traveler and a Developer</h3>
+<h1>Hi there, I'm Mohamed Sharaf 👋</h1>
+<h3>I'm a Tech Enthusiast, a Traveler and a Developer</h3>
 
 - 🎓 I’m currently undertaking my Bachelor's Degree in Sotware Engineering at Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
 
