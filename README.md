@@ -17,7 +17,7 @@
 - 🌱 Fun fact: I love to do sports and travel
 
 
-<h3 align="left">Connect with me:</h3><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+<h3 align="left">Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 <p align="left">
 <a href="https://twitter.com/sharaf_shrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharaf_shrr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharaf kiyasdeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharaf kiyasdeen" height="30" width="40" /></a>
