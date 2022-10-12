@@ -36,7 +36,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="#)
+[<img src="https://open.spotify.com/user/31o7tygp62xinzjficvrfv3ifarq?si=cdc4378269b5422b">]
 
 <br />
 
