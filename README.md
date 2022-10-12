@@ -24,19 +24,19 @@
 <h3 align="left">Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 <p align="left">
 <a href="https://twitter.com/sharaf_shrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharaf_shrr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sharaf kiyasdeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharaf kiyasdeen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohamed sharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed sharaf" height="30" width="40" /></a>
-<a href="https://fb.com/sharaf kiyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharaf kiyas" height="30" width="40" /></a>
-<a href="https://instagram.com/__sharaf.10__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sharaf.10__" height="30" width="40" /></a>
-<a href="https://medium.com/@mohamed sharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamed sharaf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dream_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dream_coder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharaf-kiyasdeen-0524351b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharaf kiyasdeen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17445382/mohamed-sharaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed sharaf" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Sharaf.kiyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharaf kiyas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__sharaf.10__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sharaf.10__" height="30" width="40" /></a>
+<a href="https://medium.com/@sharafkiyasdeen123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamed sharaf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmyXut1OlXBL0qeDdIGv6cw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dream_coder" height="30" width="40" /></a>
 </p>
 
 <br />
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/user/31o7tygp62xinzjficvrfv3ifarq?si=cdc4378269b5422b">]
+<a href="https://open.spotify.com/user/31o7tygp62xinzjficvrfv3ifarq?si=cdc4378269b5422b" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" alt="bash" width="40" height="40"/> </a>
 
 <br />
 
