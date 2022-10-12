@@ -36,7 +36,7 @@
 
 ### Spotify Playing 🎧
 
-<a href="https://open.spotify.com/user/31o7tygp62xinzjficvrfv3ifarq?si=cdc4378269b5422b" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://open.spotify.com/user/31o7tygp62xinzjficvrfv3ifarq?si=cdc4378269b5422b" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" alt="bash" width="100" height="40"/> </a>
 
 <br />
 
