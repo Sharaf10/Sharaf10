@@ -2,7 +2,7 @@
 <h3>I'm a Tech Enthusiast, a Traveler and a Developer</h3>
 <br>
 
-- 🎓 I’m currently undertaking my Bachelor's Degree in Sotware Engineering at Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
+- 🎓 I’m upholding my Bachelor's Degree in Sotware Engineering at Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
 
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer.
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **WordPress, Bootstrap, JavaScript, Flutter, Python, VB.net, Java, MYSQL,**
 
-- ⚡ 2021 Goals: Learn new technologies and to contribute projects.
+- ⚡ 2022 Goals: Learn new technologies and to contribute projects.
 
 - 📫 How to reach me **sharafkiyasdeen123@gmail.com**
 
