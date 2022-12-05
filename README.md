@@ -2,7 +2,7 @@
 <h3>I'm a Tech Enthusiast, a Traveler and a Developer</h3>
 <br>
 
-- 🎓 I’m a fresh graduate in B.Sc. (Hons) Computer Science & Sotware Engineering at Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
+- 🎓 I’m a fresh graduate in B.Sc. (Hons) Computer Science & Software Engineering at Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
 
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer.
 
