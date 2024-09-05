@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Mohamed Sharaf 👋</h1>
-<h3>I'm a Tech Enthusiast, a Traveler and a Developer</h3>
+<h3>I'm a Tech Enthusiast, a Traveler and a Software Developer</h3>
 <br>
 
 🎓 I hold a B.Sc. (Hons) in Computer Science & Software Engineering from Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
