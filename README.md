@@ -2,19 +2,19 @@
 <h3>I'm a Tech Enthusiast, a Traveler and a Developer</h3>
 <br>
 
-- 🎓 I’m a fresh graduate in B.Sc. (Hons) Computer Science & Software Engineering at Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
+🎓 I hold a B.Sc. (Hons) in Computer Science & Software Engineering from Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
 
-- 👨🏼‍💻 I’m looking for an internship to establish myself as a skilful software engineer.
+👨🏼‍💻 I have 1.5 years of experience as an associate software engineer and am seeking opportunities to further develop my skills in software engineering.
 
-- 🌱 I’m currently learning **PHP, ReactJS**
+🌱 I’m currently learning PHP, ReactJS
 
-- 💬 Ask me about **WordPress, Bootstrap, JavaScript, Flutter, Python, VB.net, Java, MYSQL,**
+💬 Ask me about WordPress, Bootstrap, JavaScript, Flutter, Python, VB.net, Java, MySQL
 
-- ⚡ 2022 Goals: Learn new technologies and to contribute projects.
+⚡ 2025 Goals: Learn new technologies and contribute to impactful projects.
 
-- 📫 How to reach me **sharafkiyasdeen123@gmail.com**
+📫 How to reach me: sharafkiyasdeen123@gmail.com
 
-- 🌱 Fun fact: I love to do sports and travel
+🌱 Fun fact: I love sports and traveling
 
 
 <h3 align="left">Languages and Tools:</h3>
