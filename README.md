@@ -4,7 +4,7 @@
 
 🎓 I hold a B.Sc. (Hons) in Computer Science & Software Engineering from Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
 
-👨🏼‍💻 I have 1.5 years of experience as an associate software engineer and am seeking opportunities to further develop my skills in software engineering.
+👨🏼‍💻 I have 2.5 years of experience as an associate software engineer and am seeking opportunities to further develop my skills in software engineering.
 
 🌱 I’m currently learning PHP, ReactJS
 
