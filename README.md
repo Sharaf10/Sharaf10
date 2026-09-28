@@ -120,11 +120,13 @@
 <h3 align="left">Featured Project Areas:</h3>
 
 <ul>
-  <li><strong>Haim Cloud:</strong> WhatsApp Business messaging platform with contact management, campaign messaging, automation, analytics, and scheduled delivery.</li>
-  <li><strong>Haim Connect:</strong> Internal HRIS and company operations platform for improving business efficiency.</li>
-  <li><strong>SFA Mobile Applications:</strong> Android applications integrated with ERP backends, offline uploads, stock updates, sales transactions, PDF reports, and SMS integration.</li>
-  <li><strong>HR Management Systems:</strong> Full-stack HR platforms with employee records, payroll modules, asset tracking, role-based access, and notifications.</li>
-  <li><strong>Microservices Platforms:</strong> Authentication, order management, payment services, REST APIs, Docker, and MongoDB.</li>
+  <li><strong>Haim Cloud:</strong> Full-stack WhatsApp Business messaging platform with contact management, campaign messaging, workflow automation, scheduled delivery, real-time analytics, and Meta WhatsApp Cloud API integration.</li>
+  <li><strong>Haim Connect:</strong> Internal HRIS and business operations platform supporting employee management, payroll, asset tracking, role-based access control, notifications, and workflow automation.</li>
+  <li><strong>J.O.E.S Banking Platform:</strong> Enterprise banking application with a Next.js frontend, Java-based microservices backend, REST API integrations, and biometric device configuration for secure authentication workflows.</li>
+  <li><strong>SFA & ERP Applications:</strong> Enterprise mobile applications integrated with ERP backends for stock management, sales transactions, offline synchronization, PDF reporting, SMS integration, orders, returns, and receipts.</li>
+  <li><strong>Microservices Platforms:</strong> Distributed applications with independent authentication, order management, and payment services using REST APIs, Docker, MongoDB, and service-to-service communication.</li>
+  <li><strong>AI & Automation Solutions:</strong> AI-driven workflow automation, Generative AI, prompt engineering, and process optimization solutions designed to reduce repetitive work and improve business productivity.</li>
+  <li><strong>AutoMo:</strong> AI-powered mobile application for estimating pre-owned vehicle values using machine learning, Flutter, Python Flask, and Firebase.</li>
 </ul>
 
 <br>
@@ -149,6 +151,10 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharaf10&show_icons=true&locale=en" alt="sharaf10" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharaf10&show_icons=true&locale=en" alt="Sharaf Kiyasdeen GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharaf10&" alt="sharaf10" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sharaf10" alt="Sharaf Kiyasdeen GitHub Streak" />
+</p>
