@@ -7,17 +7,17 @@
 
 👨🏼‍💻 I’m currently working as a <strong>Software Engineer – AI & Automation at Haim Travel</strong>, developing internal software platforms, system integrations, workflow automations, and AI-driven business solutions.
 
-🚀 At Haim Travel, I work on platforms including <strong>Haim Cloud</strong>, <strong>Haim Connect</strong>, CRM, HRMS, WhatsApp Business solutions, Meta API integrations, B2B systems, and operational automation initiatives.
+🚀 At Haim Travel, I work on platforms including <strong>Haim Cloud</strong>, <strong>Haim Connect</strong>, CRM, HRMS, WhatsApp Business solutions, Meta API integrations, B2B systems and operational automation initiatives.
 
-🤖 I implement <strong>AI-driven automations, Generative AI, and prompt engineering</strong> to reduce repetitive work, improve productivity, optimize business processes, and support AI adoption across day-to-day operations.
+🤖 I implement <strong>AI-driven automations, Generative AI, and prompt engineering</strong> to reduce repetitive work, improve productivity, optimize business processes and support AI adoption across day-to-day operations.
 
 💼 Previously, I worked at <strong>Datamation Systems</strong>, progressing from Associate Software Engineer to Software Engineer while developing enterprise SFA web and mobile applications using Java, Spring Boot, Flutter, REST APIs, microservices, and SQLite.
 
-🌱 I’m continuously expanding my experience in scalable full-stack architecture, AI integration, workflow automation, cloud technologies, DevOps practices, and modern enterprise application development.
+🌱 I’m continuously expanding my experience in scalable full-stack architecture, AI integration, workflow automation, cloud technologies, DevOps practices and modern enterprise application development.
 
-💬 Ask me about Full-Stack Development, AI Automation, Generative AI, Next.js, React.js, FastAPI, Java, Spring Boot, Microservices, REST APIs, PostgreSQL, Redis, Meta WhatsApp Cloud API, Flutter, and system integrations.
+💬 Ask me about Full-Stack Development, AI Automation, Generative AI, Next.js, React.js, FastAPI, Java, Spring Boot, Microservices, REST APIs, PostgreSQL, Redis, Meta WhatsApp Cloud API, Flutter and system integrations.
 
-⚡ <strong>Current Focus:</strong> Building scalable software solutions that combine software engineering, AI, automation, and system integration to solve real-world business problems and improve operational efficiency.
+⚡ <strong>Current Focus:</strong> Building scalable software solutions that combine software engineering, AI, automation and system integration to solve real-world business problems and improve operational efficiency.
 
 📫 <strong>How to reach me:</strong> <a href="mailto:sharafkiyasdeen123@gmail.com">sharafkiyasdeen123@gmail.com</a>
 
