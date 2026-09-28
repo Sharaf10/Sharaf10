@@ -1,25 +1,27 @@
 <h1>Hi there, I'm Sharaf Kiyasdeen 👋</h1>
-<h3>Software Developer | Full Stack Developer | Building Travel-Tech & Business Automation Platforms</h3>
+<h3>Software Engineer | AI & Automation | Full-Stack & Enterprise Application Development</h3>
 
 <br>
 
-🎓 I hold a B.Sc. (Hons) in Computer Science & Software Engineering from Sri Lanka Institute of Information Technology Academy (SLIITA) | University of Bedfordshire, UK.
+🎓 I hold a B.Sc. (Hons) in Computer Science & Software Engineering from SLIIT Academy | University of Bedfordshire, UK.
 
-👨🏼💻 I’m currently working as a Software Developer at <strong>Haim Travel</strong>, where I build internal software platforms and automation systems for the travel industry.
+👨🏼‍💻 I’m currently working as a <strong>Software Engineer – AI & Automation at Haim Travel</strong>, developing internal software platforms, system integrations, workflow automations, and AI-driven business solutions.
 
-🚀 At Haim Travel, I work on products such as <strong>Haim Connect</strong>, <strong>Haim Cloud</strong>, WhatsApp Business automation, HRIS systems, CRM-related tools, and business software solutions that support travel operations, customer communication, and company expansion.
+🚀 At Haim Travel, I work on platforms including <strong>Haim Cloud</strong>, <strong>Haim Connect</strong>, CRM, HRMS, WhatsApp Business solutions, Meta API integrations, B2B systems, and operational automation initiatives.
 
-💼 Previously, I worked as a Software Engineer at Datamation Systems, developing and maintaining web and Android SFA mobile applications using Flutter, Java, Spring Boot, REST APIs, microservices, and SQLite.
+🤖 I implement <strong>AI-driven automations, Generative AI, and prompt engineering</strong> to reduce repetitive work, improve productivity, optimize business processes, and support AI adoption across day-to-day operations.
 
-🌱 I’m currently improving my skills in Next.js, FastAPI, PostgreSQL, Redis, TypeScript, Tailwind CSS, Laravel, and scalable full-stack system architecture.
+💼 Previously, I worked at <strong>Datamation Systems</strong>, progressing from Associate Software Engineer to Software Engineer while developing enterprise SFA web and mobile applications using Java, Spring Boot, Flutter, REST APIs, microservices, and SQLite.
 
-💬 Ask me about Full Stack Development, WhatsApp Cloud API, Travel-Tech Platforms, HRIS Systems, CRM Systems, WordPress, Bootstrap, JavaScript, Flutter, Java, Python, PHP, MySQL, and REST API integrations.
+🌱 I’m continuously expanding my experience in scalable full-stack architecture, AI integration, workflow automation, cloud technologies, DevOps practices, and modern enterprise application development.
 
-⚡ Current Focus: Building impactful internal software products that reduce manual work, replace costly outsourced systems, and improve business efficiency.
+💬 Ask me about Full-Stack Development, AI Automation, Generative AI, Next.js, React.js, FastAPI, Java, Spring Boot, Microservices, REST APIs, PostgreSQL, Redis, Meta WhatsApp Cloud API, Flutter, and system integrations.
 
-📫 How to reach me: [sharafkiyasdeen123@gmail.com](mailto:sharafkiyasdeen123@gmail.com)
+⚡ <strong>Current Focus:</strong> Building scalable software solutions that combine software engineering, AI, automation, and system integration to solve real-world business problems and improve operational efficiency.
 
-🌱 Fun fact: I love sports, traveling, and building real-world software solutions.
+📫 <strong>How to reach me:</strong> <a href="mailto:sharafkiyasdeen123@gmail.com">sharafkiyasdeen123@gmail.com</a>
+
+🌱 <strong>Fun fact:</strong> I love sports, traveling, exploring emerging technologies, and building real-world software solutions.
 
 <br>
 
