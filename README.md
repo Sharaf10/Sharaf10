@@ -28,11 +28,12 @@
 <h3 align="left">Current Work at Haim Travel:</h3>
 
 <ul>
-  <li>Developing <strong>Haim Connect</strong>, an internal platform for company operations and HRIS automation.</li>
-  <li>Building <strong>Haim Cloud</strong>, a WhatsApp Business messaging platform using Meta WhatsApp Cloud API.</li>
-  <li>Working on contact management, campaign messaging, workflow automation, scheduled messaging, and real-time analytics.</li>
-  <li>Contributing to B2B reseller software development as the company expands into the UAE market.</li>
-  <li>Building scalable full-stack solutions using Next.js, FastAPI, PostgreSQL, Redis, Celery, TypeScript, and Tailwind CSS.</li>
+  <li>Developing internal platforms including <strong>Haim Connect HRIS, CRM, Haim Cloud, and operational automation solutions</strong> to digitalize and improve business processes.</li>
+  <li>Building and maintaining <strong>Haim Cloud</strong>, a WhatsApp Business messaging platform integrated with the Meta WhatsApp Cloud API for customer communication, campaigns, and automation.</li>
+  <li>Implementing <strong>AI-driven and workflow automations</strong> to reduce repetitive work, improve productivity, and support AI adoption across business operations.</li>
+  <li>Managing <strong>Meta APIs, REST APIs, webhooks, and third-party integrations</strong> across internal and customer-facing systems.</li>
+  <li>Applying <strong>Generative AI and prompt engineering</strong> to software development, business workflows, content generation, image/video creation, and process optimization.</li>
+  <li>Contributing to CRM, HRMS, B2B reseller, and enterprise integration projects supporting operations in Sri Lanka and the UAE.</li>
 </ul>
 
 <br>
@@ -41,27 +42,42 @@
 
 <h4>Frontend Development</h4>
 <p align="left">
-  HTML, CSS, JavaScript, TypeScript, React.js, Next.js, jQuery, Bootstrap, Tailwind CSS, WordPress
+  Next.js, React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery, WordPress
 </p>
 
 <h4>Backend Development</h4>
 <p align="left">
-  Node.js, Express.js, FastAPI, PHP, Laravel, Spring Boot, REST APIs, Microservices
+  Java, Spring Boot, Node.js, Express.js, FastAPI, PHP, Laravel, REST APIs, Microservices
 </p>
 
-<h4>Databases & Cloud</h4>
+<h4>Databases & Data</h4>
 <p align="left">
-  PostgreSQL, MySQL, MongoDB, Firebase, SQLite, Redis, AWS, Docker, Heroku
+  PostgreSQL, MySQL, MongoDB, Firebase, SQLite, Redis
+</p>
+
+<h4>AI & Automation</h4>
+<p align="left">
+  Generative AI, AI Workflow Automation, Prompt Engineering, AI Integration, n8n, AI-Assisted Development
+</p>
+
+<h4>APIs & Integrations</h4>
+<p align="left">
+  Meta WhatsApp Cloud API, REST APIs, Webhooks, Third-Party API Integrations
+</p>
+
+<h4>DevOps & Cloud</h4>
+<p align="left">
+  Docker, CI/CD, GitHub, AWS, Heroku, Celery
 </p>
 
 <h4>Mobile Development</h4>
 <p align="left">
-  Flutter, React Native, Java Android
+  Flutter, React Native, Java (Android), Kotlin, Swift
 </p>
 
 <h4>Tools</h4>
 <p align="left">
-  Git, GitHub, Postman, Visual Studio Code, Android Studio, Google Colab, Figma
+  Git, GitHub, Postman, Visual Studio Code, Android Studio, Xcode, Google Colab, Figma
 </p>
 
 <br>
